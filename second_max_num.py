@@ -1,4 +1,4 @@
-list1 = [100, 20, 49, 45, 99]
+list1 = [100, 40, 49, 45, 75]
 mx = max(list1)
 secondmax = min(list1)
 n = len(list1)
